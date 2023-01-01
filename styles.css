@@ -1,13 +1,7 @@
 
-/* Your CSS Code here. */
-main{
+main.Accio#Job {
     width: 150px;
     height: 150px;
     background-color: black;
-    
-}
-main p{
     color: white;
-    margin-left: 32px;
-    padding: 10px;
-}
+  }
